@@ -1,0 +1,10 @@
+LIBRARY avformat-56.dll
+
+EXPORTS
+
+av_register_all
+avformat_alloc_context
+avformat_open_input
+avformat_find_stream_info
+av_dump_format
+av_read_frame

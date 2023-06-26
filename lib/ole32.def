@@ -1,0 +1,10 @@
+LIBRARY ole32.dll
+
+EXPORTS
+
+CoInitialize
+CoUninitialize
+CoCreateGuid
+CoCreateInstance
+CoGetInstanceFromFile
+CoGetObject

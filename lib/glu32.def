@@ -1,0 +1,5 @@
+LIBRARY glu32.dll
+
+EXPORTS
+
+gluPerspective

@@ -1,0 +1,12 @@
+LIBRARY avcodec-56.dll
+
+EXPORTS
+
+avcodec_find_decoder
+avcodec_open2
+avcodec_alloc_frame
+avcodec_decode_video2
+av_init_packet
+av_new_packet
+av_free_packet
+av_destruct_packet

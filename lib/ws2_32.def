@@ -1,0 +1,22 @@
+LIBRARY ws2_32.dll
+
+EXPORTS
+
+WSAStartup
+WSACleanup
+WSAGetLastError
+getaddrinfo
+freeaddrinfo
+gethostbyname
+htons
+socket
+closesocket
+connect
+send
+sendto
+recv
+recvfrom
+accept
+bind
+listen
+ioctlsocket

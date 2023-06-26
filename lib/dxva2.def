@@ -1,0 +1,8 @@
+LIBRARY dxva2.dll
+
+EXPORTS
+
+GetMonitorBrightness
+SetMonitorBrightness
+GetPhysicalMonitorsFromHMONITOR
+GetNumberOfPhysicalMonitorsFromHMONITOR

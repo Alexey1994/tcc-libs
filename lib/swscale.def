@@ -1,0 +1,6 @@
+LIBRARY swscale-3.dll
+
+EXPORTS
+
+sws_getCachedContext
+sws_scale

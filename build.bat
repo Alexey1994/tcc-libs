@@ -1,0 +1,1 @@
+@tcc "-DTCC_VERSION=\"1\"" "-Iinclude-tcc" "-Iinclude-tcc/winapi" "-Isrc/include" "src-min/tcc.c" -o "a.exe" || pause
